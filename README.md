@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente busco vaga como Front-end.
 - 🌱 Estou me concentrando bastante nos estudos para absover o maximo possivel.
-- 😄 Pronouns: Ele/ Dele
+- 😄 Pronomes: Ele/ Dele
  
 
 <div style="display: inline_block"><br>
